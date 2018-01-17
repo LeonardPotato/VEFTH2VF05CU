@@ -14,12 +14,12 @@ def about():
 
 @route('/biography')
 def biography():
-    return 'gjvv'
+    return 'Biography'
 
 
 @route('/pictures')
 def pictures():
-    return 'gjvg'
+    return 'Pictures'
 
 
 run(host="0.0.0.0", port=int(os.environ.get("PORT", 5000)))
