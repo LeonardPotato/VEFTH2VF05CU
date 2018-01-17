@@ -1,1 +1,1 @@
-web:python verk1.py
+web: python verk1.py
